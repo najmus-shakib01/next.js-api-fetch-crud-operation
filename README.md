@@ -32,5 +32,5 @@ A modern, responsive Next.js frontend application for managing employees with fu
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/najmus-shakib01/next.js-api-fetch-crud-operation.git
 cd nextjs-employee-frontend
